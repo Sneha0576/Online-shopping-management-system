@@ -333,25 +333,19 @@ int getch(void)
 	}
 	
 	//system("clear");
-	 cout<<"                   INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, NAGPUR                  ";
+	 cout<<"ARMY INSTITUTE OF TECHNOLOGY,PUNE";
 
-	 cout<<"\n                         WELCOME TO MY PROJECT                     ";
+	 cout<<"\n WELCOME TO MY PROJECT";
 	
-	 cout<<"\n                         COURSE--OBJECT ORIENTED PROGRAMMING   ";
+	 cout<<"\n COURSE--OBJECT ORIENTED PROGRAMMING";
 	cout<<"\n";
 	
+	
+	 cout<<" BY:- SNEHA \n";
 
+	 cout<<"B-E(SE) IT - 3RD SEM\n";
 	
-	
-	 cout<<"                        SUBJECT TEACHER:-MRS.POOJA JAIN	  (	H.O.D- CSE)                     \n";
-	
-	
-	
-	 cout<<"                              BY:- ABHIJEET GUPTA                           \n";
-
-	 cout<<"                              B-TECH CSE - 3RD SEM                              \n";
-	
-	 cout<<"                              ROLL NO:- BT18CSE013                            \n";
+	 cout<<"ROLL NO:- 8251\n";
 	
 	 
 	 cout<<"\n\n";
@@ -1247,5 +1241,4 @@ int getch(void)
 	}
 
 	 
-
 
